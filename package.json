@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@robinsage/rb-redis@https://registry.npmjs.org/@robinsage/rb-redis/-/rb-redis-0.2.0.tgz",
+        "scope": "@robinsage",
+        "escapedName": "@robinsage%2frb-redis",
+        "name": "@robinsage/rb-redis",
+        "rawSpec": "https://registry.npmjs.org/@robinsage/rb-redis/-/rb-redis-0.2.0.tgz",
+        "spec": "https://registry.npmjs.org/@robinsage/rb-redis/-/rb-redis-0.2.0.tgz",
+        "type": "remote"
+      },
+      "/vagrant"
+    ]
+  ],
+  "_from": "@robinsage/rb-redis@>=0.2.0 <0.3.0",
+  "_id": "@robinsage/rb-redis@0.2.0",
+  "_inCache": true,
+  "_location": "/@robinsage/rb-redis",
+  "_phantomChildren": {
+    "cookie": "0.3.1",
+    "cookie-signature": "1.0.6",
+    "crc": "3.4.4",
+    "depd": "1.1.2",
+    "double-ended-queue": "2.1.0-0",
+    "ms": "2.0.0",
+    "on-headers": "1.0.1",
+    "parseurl": "1.3.2",
+    "redis-commands": "1.3.5",
+    "redis-parser": "2.6.0",
+    "uid-safe": "2.1.5",
+    "utils-merge": "1.0.1"
+  },
+  "_requested": {
+    "raw": "@robinsage/rb-redis@https://registry.npmjs.org/@robinsage/rb-redis/-/rb-redis-0.2.0.tgz",
+    "scope": "@robinsage",
+    "escapedName": "@robinsage%2frb-redis",
+    "name": "@robinsage/rb-redis",
+    "rawSpec": "https://registry.npmjs.org/@robinsage/rb-redis/-/rb-redis-0.2.0.tgz",
+    "spec": "https://registry.npmjs.org/@robinsage/rb-redis/-/rb-redis-0.2.0.tgz",
+    "type": "remote"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@robinsage/rb-redis/-/rb-redis-0.2.0.tgz",
+  "_shasum": "65f91ee1b286fcedb92c8cd67f9c8da2540fe9e3",
+  "_shrinkwrap": null,
+  "_spec": "@robinsage/rb-redis@https://registry.npmjs.org/@robinsage/rb-redis/-/rb-redis-0.2.0.tgz",
+  "_where": "/vagrant",
+  "author": {
+    "name": "Robinsage Business Services",
+    "email": "info@robinsage.com"
+  },
+  "dependencies": {
+    "connect-redis": "^3.2.0",
+    "express-session": "^1.14.2",
+    "redis": "^2.6.3",
+    "sift": "^3.2.6"
+  },
+  "description": "Redis storage and related functionality for robinbase",
+  "devDependencies": {},
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "name": "@robinsage/rb-redis",
+  "optionalDependencies": {},
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "version": "0.2.0"
+}
